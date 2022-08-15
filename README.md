@@ -2,7 +2,7 @@
 
 1. 安装oh-my-zsh
 2. 主题：https://github.com/romkatv/powerlevel10k
-3. 这个主要要求zsh 5.1以上：https://blog.kmonsoor.com/install-latest-Zsh-on-CentOS/
+3. 这个主题要求zsh 5.3以上：https://blog.kmonsoor.com/install-latest-Zsh-on-CentOS/
 4. 安装zinit，解决zsh慢的问题：https://github.com/zdharma-continuum/zinit#install
 5. https://zhuanlan.zhihu.com/p/98450570
 
